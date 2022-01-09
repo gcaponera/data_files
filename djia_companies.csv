@@ -1,0 +1,31 @@
+,symbol,name,sector,subSector,headQuarter,dateFirstAdded,cik,founded
+0,CRM,Salesforce.Com Inc,Technology,Technology,"San Francisco, CALIFORNIA",8/31/20,1108524,6/23/04
+1,WBA,Walgreens Boots Alliance Inc,Healthcare,Healthcare,"Deerfield, ILLINOIS",6/26/18,1618921,12/31/14
+2,V,Visa Inc,Financial Services,Financial Services,"San Francisco, CALIFORNIA",9/23/13,1403161,3/19/08
+3,NKE,Nike Inc,Consumer Cyclical,Consumer Cyclical,"Beaverton, OREGON",9/23/13,320187,10/17/90
+4,UNH,UnitedHealth Group Inc,Healthcare,Healthcare,"Hopkins, MINNESOTA",9/24/12,731766,10/17/84
+5,TRV,Travelers Companies Inc,Financial Services,Financial Services,"Saint Paul, MINNESOTA",6/8/09,86312,11/8/91
+6,VZ,Verizon Communications Inc,Communication Services,Communication Services,"New York City, NEW YORK",4/8/04,732712,2/15/84
+7,INTC,Intel Corp,Technology,Technology,"Santa Clara, CALIFORNIA",11/1/99,50863,10/13/71
+8,WMT,Walmart Inc,Consumer Defensive,Consumer Defensive,"Bentonville, ARKANSAS",3/17/97,104169,8/25/72
+9,JNJ,Johnson & Johnson,Healthcare,Healthcare,"New Brunswick, NEW JERSEY",3/17/97,200406,9/25/44
+10,DIS,Walt Disney Co,Consumer Cyclical,Consumer Cyclical,"Burbank, CALIFORNIA",1/1/94,1744489,11/12/57
+11,MCD,Mcdonald's Corp,Consumer Cyclical,Consumer Cyclical,"Chicago, ILLINOIS",1/1/94,63908,7/5/66
+12,JPM,JPMorgan Chase & Co,Financial Services,Financial Services,"New York City, NEW YORK",1/1/94,19617,3/5/69
+13,CAT,Caterpillar Inc,Industrials,Industrials,"Deerfield, ILLINOIS",1/1/94,18230,12/2/29
+14,BA,Boeing Co,Industrials,Industrials,"Chicago, ILLINOIS",1/1/94,12927,9/5/34
+15,AMGN,Amgen Inc,Healthcare,Healthcare,"Thousand Oaks, CALIFORNIA",8/31/20,318154,5/1/87
+16,DOW,Dow Inc,Basic Materials,Basic Materials,"Midland, MICHIGAN",4/2/19,1751788,3/20/19
+17,AAPL,Apple Inc,Technology,Technology,"Cupertino, CALIFORNIA",3/19/15,320193,12/12/80
+18,GS,Goldman Sachs Group Inc,Financial Services,Financial Services,"New York City, NEW YORK",9/23/13,886982,5/4/99
+19,CSCO,Cisco Systems Inc,Technology,Technology,"San Jose, CALIFORNIA",6/8/09,858877,2/1/90
+20,MSFT,Microsoft Corp,Technology,Technology,"Redmond, WASHINGTON",11/1/99,789019,3/13/86
+21,HD,Home Depot Inc,Consumer Cyclical,Consumer Cyclical,"Atlanta, GEORGIA",11/1/99,354950,4/19/84
+22,PG,Procter & Gamble Co,Consumer Defensive,Consumer Defensive,"Cincinnati, OHIO",1/1/94,80424,3/22/50
+23,MRK,Merck & Co Inc,Healthcare,Healthcare,"Kenilworth, NEW JERSEY",1/1/94,310158,6/15/46
+24,IBM,International Business Machines Corp,Technology,Technology,"Armonk, NEW YORK",1/1/94,51143,11/11/15
+25,HON,Honeywell International Inc,Industrials,Industrials,"Charlotte, NORTH CAROLINA",1/1/94,773840,9/19/85
+26,KO,Coca-Cola Co,Consumer Defensive,Consumer Defensive,"Atlanta, GEORGIA",1/1/94,21344,9/5/19
+27,CVX,Chevron Corp,Energy,Energy,"San Ramon, CALIFORNIA",1/1/94,93410,6/24/21
+28,AXP,American Express Co,Financial Services,Financial Services,"New York City, NEW YORK",1/1/94,4962,5/18/77
+29,MMM,3M Co,Industrials,Industrials,"Saint Paul, MINNESOTA",1/1/94,66740,1/14/46
